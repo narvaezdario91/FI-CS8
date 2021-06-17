@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #E5E5E5;
+    text-align: center;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    height: 400px;
+}
+
+header img{
+    border-radius: 50%;
+    width: 10em;
+    padding: 2em;
+    margin-top: 5em;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li a{
+    color: white;
+    font-size: 2em;
+}
+
+.seccion-academia ul, .seccion-experiencia ul{
+    list-style-type: none;
+}
+
+.seccion-personales ul li strong{
+    font-style: italic;
+}
+
+.seccion-cv h3{
+    background-color: #C4C4C4;
+    padding: 0.3em;
+}
+
+.sublista{
+    list-style-type: none;
+}
+
+main h1 {
+    padding: 0.5em;
+    text-align: center;
+    color: #005677;
+    background-color: #C4C4C4;
+    margin-top: 0;
+}
+
+section{
+    margin: 5em 20em;
+}
+
+article h3{
+    color: #005677;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+}
+
+footer ul{
+    list-style-type: none;
+    color: white;
+}
+
+footer ul li{
+    display: inline;
+}
+
+.fab{
+    
+}
